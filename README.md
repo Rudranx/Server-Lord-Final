@@ -1,4 +1,4 @@
-# 🛡️ Server Lord — Scalable Cron Job Monitoring System
+# 🛡️ Server Lord : Scalable Cron Job Monitoring System
 
 ![Go Version](https://img.shields.io/badge/go-1.18+-blue.svg)
 ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-blue)
